@@ -7,5 +7,5 @@ fn main() {
         println!("Brr, so cold");
     } else {
         println!("Lots of rain");
-    }    
+    }
 }
