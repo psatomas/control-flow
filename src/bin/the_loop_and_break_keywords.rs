@@ -7,7 +7,7 @@ fn main() {
             break;
         }
         
-        println!("{seconds} seconds to blastoff...");
+        println!("{seconds} seconds to blastoff..");
         seconds -= 1;
     }
 }
